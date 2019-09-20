@@ -156,6 +156,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 | Bittrex | Next Generation Crypto Trading Platform | `apiKey` | Yes | Unknown | [Go!](https://bittrex.com/Home/Api) |
 | Block | Bitcoin Payment, Wallet & Transaction Data | `apiKey` | Yes | Unknown | [Go!](https://www.block.io/docs/basic) |
 | Blockchain | Bitcoin Payment, Wallet & Transaction Data | No | Yes | Unknown | [Go!](https://www.blockchain.info/api) |
+| BlockFacts | Real-time crypto data from multiple exchanges via a single unified API, and much more | Yes | Yes | Unknown | [Go!](https://docs.blockfacts.io/) |
 | CoinAPI | All Currency Exchanges integrate under a single api | `apiKey` | Yes | No | [Go!](https://docs.coinapi.io/) |
 | Coinbase | Bitcoin, Litecoin and Ethereum Prices | `apiKey` | Yes | Unknown | [Go!](https://developers.coinbase.com) |
 | CoinBin | Cryptocurrency information | No | Yes | Unknown | [Go!](https://coinbin.org/) |
