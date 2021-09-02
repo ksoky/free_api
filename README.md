@@ -352,6 +352,7 @@ API | Description | Auth | HTTPS | CORS | Link |
 | Daum Maps | Daum Maps provide multiple APIs for Korean maps | `apiKey` | No | Unknown | [Go!](http://apis.map.daum.net/) |
 | FreeGeoIP | Geolocation of IP addresses | No | Yes | Unknown | [Go!](https://freegeoip.net/) |
 | GeoApi | French geographical data | No | Yes | Unknown | [Go!](https://api.gouv.fr/api/geoapi.html) |
+| Geoapify | Forward and Reverse Geocoding, Routing, Places, Isoline APIs | `apiKey` | Yes | Yes | [Go!](https://www.geoapify.com/) |
 | Geocode.xyz | Provides worldwide forward/reverse geocoding, batch geocoding and geoparsing | No | Yes | Unknown | [Go!](https://geocode.xyz/) |
 | GeoNames | Place names and other geographical data | No | No | Unknown | [Go!](http://www.geonames.org/export/web-services.html) |
 | Google Earth Engine | A cloud-based platform for planetary-scale environmental data analysis | `apiKey` | Yes | Unknown | [Go!](https://developers.google.com/earth-engine/) |
